@@ -1,1 +1,0 @@
-Microsoft Windows better way to implement [[shell]] in their operating system

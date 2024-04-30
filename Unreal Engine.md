@@ -1,5 +1,6 @@
 ---
 Type: Map
+State: On-Going (Maintained)
 ---
 
 [[Game Engine]] that aimed toward [[AAA Game]] quaility with robust set of tool to be utilized
@@ -9,7 +10,7 @@ Learning Source :
 2. Ryan Laffey
 3. Tom Looman
 4. Udemy Courses
-5. [[Blueprint UE]]
+5. Blueprint UE - Unreal Engine Pastebin https://blueprintue.com
 6. ikrima dev guide https://ikrima.dev/ue4guide/packaging-cooking/optimizing-cooking/
 
 Notable Feature Point

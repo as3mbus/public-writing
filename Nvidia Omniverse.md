@@ -1,1 +1,0 @@
-utilize [[Universal Scene Descriptor (USD)]] to enable collaboration through various [[Digital Content Creation]] tools

@@ -1,5 +1,6 @@
 ---
 Type: Map
+State: On-Going (Maintained)
 ---
 
 Note Taking app that manage it's text in markdown format

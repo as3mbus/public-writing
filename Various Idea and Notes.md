@@ -1,5 +1,6 @@
 ---
 Type: RandomNotes
+State: On-Going (Maintained)
 ---
 
 1. Dealing with mediocrity and social media that connect us with most talented person

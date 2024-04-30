@@ -2,6 +2,7 @@
 aliases:
   - GPT
 Type: Map
+State: On-Going (Maintained)
 ---
 mostly use [[Python]]
 GPT Usage commonly consist of

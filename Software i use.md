@@ -1,8 +1,7 @@
 ---
-Type: RandomNotes
+type: Notes
+State: On-Going (Maintained)
 ---
-
-
 1. Microsoft Powertoys - various windows power user tool
 2. scrcpy - remote android
 3. SpaceSniffer - sniff disk space to help drive cleanup

@@ -1,3 +1,8 @@
+---
+type: Map Of Content
+State: On-Going (Draft)
+---
+
 [[Generative Pre-Trained Transformer (GPT)|GPT]] Implementation to generate images
 
 Learning Source : 

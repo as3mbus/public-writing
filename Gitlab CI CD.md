@@ -4,6 +4,7 @@ tags:
   - Repository
   - Git
 Type: Map
+State: On-Going (Draft)
 ---
 
 1. manage pipeline and clean pipeline

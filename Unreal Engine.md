@@ -23,4 +23,4 @@ Link to Look Into
 - Global Event System https://github.com/getnamo/GlobalEventSystem-Unreal/tree/master
 - C++ Workflow using Data https://www.unrealengine.com/marketplace/en-US/product/improving-c-workflows-using-data?sessionInvalidated=true
 - Data Driven Gameplay Event - https://dev.epicgames.com/documentation/en-us/unreal-engine/data-driven-gameplay-elements-in-unreal-engine
-- 
+- Overriding unreal base class - https://intaxwashere.github.io/cursed-reflection-hack/

@@ -28,4 +28,4 @@ TODO :
 7. [ ] manage foldering
 8. [ ] create dashboard
 9. [ ] automate tagging with AI
-10. [ ] 
+10. [ ] dataview css theme

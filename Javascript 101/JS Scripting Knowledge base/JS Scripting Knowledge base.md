@@ -1,63 +1,36 @@
 ---
-
+---
 Basic JavaScript scripting knowledge to Quick access. this page contain basic information without much detail on architecture information. Go To arch topic for more detailed information to arrange system to be more performant and modular
 
-- ==**Table Of Content**==
-    
-    Architecture Topic
-    
-    Hoisting
-    
-    Not Hoisted
-    
-    Hoisted
-    
-    Let, Var, and Const
-    
-    Let ⇒ block scoped
-    
-    var ⇒ function scoped
-    
-    Const ⇒ Block Scoped, no modification possible
-    
-    Global Property
-    
-    Redeclaration
-    
-    Equality (==) vs. Identity (===) Operators
-    
-    Equality (==)
-    
-    Identity (===)
-    
-    Global Scoped Variable
-    
-    Scopes / Closures
-    
-    Regular Function {function(x)} and Arrow Function {(x) ⇒}
-    
-    Arrow Function don't have access it's own This scope
-    
-    Arguments property Availability
-    
-    Regular Function (available)
-    
-    Arrow Function (not available)
-    
-    prototype property Availability
-    
-    Promise
-    
-    Chaining Promise
-    
-    Using Promise
-    
-    Creating Promise
-    
-    Single Quote and Double Quote
-    
-    Undefined and Null
-    
+**Table Of Content**
+1. [Architecture Topic](#Architecture%20Topic)
+1. [Hoisting](#Hoisting)
+1. [Not Hoisted](#Not%20Hoisted)
+1. [Hoisted](#Hoisted)
+1. [Let, Var, and Const](#Let,%20Var,%20and%20Const)
+1. [Let ⇒ block scoped](#Let%20%E2%87%92%20block%20scoped)
+1. [var ⇒ function scoped](#var%20%E2%87%92%20function%20scoped)
+1. [Const ⇒ Block Scoped, no modification possible](#Const%20%E2%87%92%20Block%20Scoped,%20no%20modification%20possible)
+1. [Global Property](#Global%20Property)
+1. [Redeclaration](#Redeclaration)
+1. [Equality `(==)` vs. Identity `(===)` Operators](#Equality%20%60(==)%60%20vs.%20Identity%20%60(===)%60%20Operators)
+1. [Equality `(==)`](#Equality%20%60(==)%60)
+1. [Identity `(===)`](#Identity%20%60(===)%60)
+1. [Global Scoped Variable](#Global%20Scoped%20Variable)
+1. [Scopes / Closures](#Scopes%20/%20Closures)
+1. [`**Regular**` **Function** `**{function(x)}**` **and** `**Arrow**` **Function** `**{(x) ⇒}**`](#%60**Regular**%60%20**Function**%20%60**%7Bfunction(x)%7D**%60%20**and**%20%60**Arrow**%60%20**Function**%20%60**%7B(x)%20%E2%87%92%7D**%60)
+1. [Arrow Function don't have access it's own `This` scope](#Arrow%20Function%20don't%20have%20access%20it's%20own%20%60This%60%20scope)
+1. [`Arguments` property Availability](#%60Arguments%60%20property%20Availability)
+1. [Regular Function (available)](#Regular%20Function%20(available))
+1. [Arrow Function (not available)](#Arrow%20Function%20(not%20available))
+1. [`prototype` property Availability](#%60prototype%60%20property%20Availability)
+1. [Promise](#Promise)
+1. [Chaining Promise](#Chaining%20Promise)
+1. [Using Promise](#Using%20Promise)
+1. [Creating Promise](#Creating%20Promise)
+1. [Single Quote and Double Quote](#Single%20Quote%20and%20Double%20Quote)
+1. [Undefined and Null](#Undefined%20and%20Null)
+	1. [Null and undefined difference](#Null%20and%20undefined%20difference)
 
 ### Architecture Topic
 
@@ -90,7 +63,7 @@ var a = 0
 
   
 
----
+
 
 # Let, Var, and Const
 
@@ -152,13 +125,13 @@ let bar = "bar2"; // SyntaxError: Identifier 'bar' has already been declared
 
 ---
 
-# Equality (==) vs. Identity (===) Operators
+# Equality `(==)` vs. Identity `(===)` Operators
 
-### Equality (==)
+### Equality `(==)`
 
 converts both value to same type before comparing
 
-### Identity (===)
+### Identity `(===)`
 
 No Type Conversion
 
@@ -352,9 +325,9 @@ const singleQuote3 = 'but i can "simply do this as my heart pleases"'
 
 |Difference|undefined|null|
 |---|---|---|
-|[[overview]]|means a variable has been declared but has not yet been assigned a value|an assignment value. It can be assigned to a variable as a representation of no value:|
-|[[Type]]|undefined|object|
-|[[ToString]]|undefined|null|
-|[[null ===]]|false|true|
-|[[null ==]]|true|true|
-|[[value assignment]]|OK|Referrence error|
+|overview|means a variable has been declared but has not yet been assigned a value|an assignment value. It can be assigned to a variable as a representation of no value:|
+|Type|undefined|object|
+|ToString|undefined|null|
+|null ===|false|true|
+|null ==|true|true|
+|value assignment|OK|Referrence error|

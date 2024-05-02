@@ -8,3 +8,4 @@ State: On-Going (Maintained)
 4. Droid Cam - use mobile camera as webcam
 5. Rust Desk - Remote Desktop
 6. Parsec - Remote Desktop
+7. Bulk Crap Uninstaller

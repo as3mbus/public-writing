@@ -1,6 +1,6 @@
 ---
 type: Article
-State: On-Going (Draft)
+State: Pending
 ---
 
 # Popular Writing Structures
